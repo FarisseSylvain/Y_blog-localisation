@@ -66,3 +66,6 @@ aaca17,::1,GET,http://localhost/COURS_B2/Symfony/Y_blog/web/app_dev.php/,1512675
 e4c425,::1,GET,http://localhost/COURS_B2/Symfony/Y_blog/web/app_dev.php/contact,1520174706,,200
 0b2aa4,127.0.0.1,GET,http://127.0.0.1:8000/,1520178953,,200
 0a0794,127.0.0.1,GET,http://127.0.0.1:8000/,1520182356,,200
+05f6f3,127.0.0.1,GET,http://127.0.0.1:8000/about,1520182705,,200
+a3bd4f,127.0.0.1,GET,http://127.0.0.1:8000/contact,1520182710,,200
+f98f5e,127.0.0.1,GET,http://127.0.0.1:8000/,1520182715,,200
